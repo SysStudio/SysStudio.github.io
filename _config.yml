@@ -1,6 +1,5 @@
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://sysstud.io'
+  url: 'http://sysstud.io'
   media: 'media'
   ignore:
     - index.md
