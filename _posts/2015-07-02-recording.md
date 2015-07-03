@@ -1,9 +1,0 @@
----
-layout: blog
-category: blog
-published: true
-title: recording
----
-
-#just another day recording a dishwasher![0628151440.jpg]({{site.baseurl}}/media/0628151440.jpg)
-
