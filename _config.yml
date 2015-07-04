@@ -1,4 +1,4 @@
-baseurl: http://sysstud.io/
+baseurl: http://sysstud.io
 permalink: pretty
 markdown: rdiscount
 prose:
