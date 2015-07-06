@@ -453,7 +453,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
 
 /* Tablet Layout
 ------------------------------------------------------- */
-@media only screen and (max-width:770px) {
+@media only screen and (max-width:1080px) {
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
   }
