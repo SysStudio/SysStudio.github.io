@@ -325,7 +325,7 @@ table {
   border-radius: 5px;
 }
     .header .title {
-        font-size:15px;
+        font-size:24px;
         line-height:1.67;
         font-weight:bold;
         margin:0;
@@ -453,7 +453,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
 
 /* Tablet Layout
 ------------------------------------------------------- */
-@media only screen and (max-width:1080px) {
+@media only screen and (max-width:770px) {
   .hide-tablet { display:none; }
   .show-tablet { display:block; }
   }
