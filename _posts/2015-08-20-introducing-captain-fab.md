@@ -1,8 +1,6 @@
 ---
 layout: blog
-splash: ""
-tags:
-  - "null"
+category: blog
 published: true
 title: Introducing Captain Fab
 ---
