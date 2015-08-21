@@ -1,10 +1,12 @@
 ---
 layout: blog
 splash: ""
-tags: null
-published: false
+tags: 
+  - "null"
+published: true
 title: Introducing Captain Fab
 ---
+
 
 ## Introducing Captain Fab
 Our first major character for Skyraiders out of production. He is the pirate captian whos personality stands out as much as his colonial atire in this sci-fi world.
