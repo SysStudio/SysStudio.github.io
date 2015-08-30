@@ -1,11 +1,11 @@
 ---
 layout: blog
 splash: ""
-tags: 
-  - "null"
+tags: null
 published: true
 title: New Title Screen
 ---
+
 
 
 ##New Title screen
