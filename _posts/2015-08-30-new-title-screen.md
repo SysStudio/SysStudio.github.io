@@ -3,8 +3,6 @@ layout: blog
 category: blog
 published: true
 title: New Title Screen
-splash: ""
-tags: null
 ---
 
 
