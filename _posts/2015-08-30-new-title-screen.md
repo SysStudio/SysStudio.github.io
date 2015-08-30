@@ -1,7 +1,5 @@
 ---
 layout: blog
-splash: ""
-tags: null
 published: true
 title: New Title Screen
 ---
