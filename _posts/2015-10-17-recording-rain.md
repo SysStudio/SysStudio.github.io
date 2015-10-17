@@ -1,8 +1,7 @@
 ---
 layout: blog
-splash: ""
-tags: null
-published: false
+category: blog
+published: true
 title: Recording Rain
 ---
 
