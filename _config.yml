@@ -1,10 +1,10 @@
-baseurl: http://sysstud.io
+baseurl: http://lonelyrockstudio.com
 permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://sysstud.io/'
-  relativeLinks: http://sysstud.io/links.jsonp'
+  siteurl: 'http://lonelyrockstudio.com'
+  relativeLinks: http:/lonelyrockstudio.com/links.jsonp'
   media: 'media'
   metadata:
     _posts:
