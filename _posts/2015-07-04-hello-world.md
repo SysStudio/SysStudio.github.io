@@ -7,4 +7,4 @@ title: "Hello, World!"
 
 
 ## We made it!
-Sys/Studio is now on the web!
+Lonely Rock Studio is now on the web!
