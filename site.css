@@ -324,23 +324,12 @@ table {
   background: #999;
   border-radius: 5px;
 }
-    .header .title {
-        font-size:24px;
-        line-height:1.67;
-        font-weight:bold;
-        margin:0;
-        color: #ffffff;
+    .header img {
+      width: 250px;
+      height: 131px;
+      background: #999;
     }
-        .header .title a {
-            color: #ffffff;
-            /*color:#516066;*/
-        }
-        .header img {
-          width: 250px;
-          height: 131px;
-          background: #999;
-        }
-
+    
 .menu {
   text-align:right;
   }
