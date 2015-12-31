@@ -336,10 +336,9 @@ table {
             /*color:#516066;*/
         }
         .header img {
-          float: left;
-          width: 100px;
-          height: 100px;
-          background: #ffffff;
+          width: 250px;
+          height: 131px;
+          background: #999;
         }
 
 .menu {
