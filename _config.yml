@@ -1,6 +1,6 @@
 baseurl: http://lonelyrockstudio.com
 permalink: pretty
-markdown: rdiscount
+markdown: kramdown
 prose:
   rooturl: '_posts'
   siteurl: 'http://lonelyrockstudio.com'
