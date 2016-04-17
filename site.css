@@ -329,7 +329,7 @@ table {
       height: 131px;
       background: #999;
     }
-    
+
 .menu {
   text-align:right;
   }
@@ -346,6 +346,17 @@ table {
 .listing .month {
   color:#868f93;
   margin-top:20px;
+  }
+
+.post-content {
+    top:0;
+    left:0;
+    position: absolute;
+}
+
+.skyraiderssplash{
+    position:relative;
+
   }
 
 .splash img {
