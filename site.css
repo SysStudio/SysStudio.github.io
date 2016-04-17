@@ -349,15 +349,15 @@ table {
   }
 
 .post-content {
-    top: 500px;
+    top:0;
+    left:0;
     font-size: 24;
-    text-align: center;
     position: absolute;
 }
 
 .skyraiderssplash{
     position:relative;
-    max-width:100%;
+
 
   }
 
