@@ -355,9 +355,8 @@ table {
 }
 
 .skyraiderssplash{
-    height: auto; 
-    width: auto;
-    max-width:2000px;
+    height: auto;
+    width: 100%;
     position:relative;
   }
 
