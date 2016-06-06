@@ -361,7 +361,7 @@ table {
   }
 
 .splash img {
-  background:#f0f0f0;
+  background-image: url("{{site.baseurl}}/media/skyraiders.png")
   margin:0 auto;
   display:block;
   max-width:100%;
