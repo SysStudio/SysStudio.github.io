@@ -355,9 +355,9 @@ table {
 }
 
 .skyraiderssplash{
-    height: auto;
-    width: 1000px;
-    position:relative;
+   display: block;
+   margin-left: auto;
+   margin-right: auto }
   }
 
 .splash img {
@@ -370,10 +370,6 @@ table {
   color:#d4d7d9;
   font-weight:normal;
   }
-
-body {
-  background-image: url("{{site.baseurl}}/media/skyraiders.png")
-}
 
 /* Columns
 ------------------------------------------------------- */
