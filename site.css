@@ -361,7 +361,7 @@ table {
   }
 
 .splash img {
-  background-image: url("{{site.baseurl}}/media/skyraiders.png")
+  background:#f0f0f0;
   margin:0 auto;
   display:block;
   max-width:100%;
@@ -370,6 +370,10 @@ table {
   color:#d4d7d9;
   font-weight:normal;
   }
+
+body {
+  background-image: url("{{site.baseurl}}/media/skyraiders.png")
+}
 
 /* Columns
 ------------------------------------------------------- */
