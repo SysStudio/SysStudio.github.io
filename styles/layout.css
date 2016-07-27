@@ -23,9 +23,47 @@
 
 .content { text-align: left; }
 
-@media (min-width: 800px) {
+/* flexbox within a flexbox */
+.blog {
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* blog stuff */
+.listing {
+    text-align: left;
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+@media screen and (max-width: 349px) {
+    .nav { display: flex; }
+}
+
+@media screen and (min-width: 350px) and (max-width: 499px) {}
+    .body h2 { display: none; }
+    .body img { display: none; }
+}
+
+@media screen and (min-width: 500px) and (max-width: 750px) {
+    .body h2 {display: none; }
+    .body img {
+        margin: 1em auto 1em auto;
+        max-height: 300px;
+        max-width: 50%;
+        display: block;
+    }
+}
+
+@media screen and (min-width: 800px) {
+    /* where everything explodes */
     .container {
         max-width: 800px;
         margin: 0 auto 0 auto;
     }
+    .body h2 { display: block; }
+    .body img { display: block; }
 }
