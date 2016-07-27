@@ -18,8 +18,19 @@
 .header { height: 20%; max-height: 225px; }
 .header img { width: 50%; max-width: 500px; }
 
-.nav { height: 10%; }
-.nav a { min-width: 48px; min-height: 48px; padding: 1.5em; }
+.nav {
+    height: 10%;
+    display: flex;
+    text-align: center;
+}
+
+.nav a {
+    text-align: center;
+    width: 25%;
+    min-width: 48px;
+    min-height: 48px;
+    padding: 1.5em;
+}
 
 .content { text-align: left; }
 
@@ -56,6 +67,11 @@
         max-width: 50%;
         display: block;
     }
+}
+
+@media screen and (min-width: 500px) {
+    .nav { display: block; width: 100%; }
+    .nav a { width: auto; }
 }
 
 @media screen and (min-width: 800px) {
