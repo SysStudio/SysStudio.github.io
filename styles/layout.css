@@ -1,0 +1,31 @@
+/* layout.css
+ * (finally) getting some responsive design going
+ * Created: 26 July 2016
+ */
+
+.container {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container img { max-width: 100%; }
+
+.box { width: 100%; padding: .5%; text-align: center; }
+
+.header { height: 20%; max-height: 225px; }
+.header img { width: 50%; max-width: 500px; }
+
+.nav { height: 10%; }
+.nav a { min-width: 48px; min-height: 48px; padding: 1.5em; }
+
+.content { text-align: left; }
+
+@media (min-width: 800px) {
+    .container {
+        max-width: 800px;
+        margin: 0 auto 0 auto;
+    }
+}
