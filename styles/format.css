@@ -304,9 +304,7 @@ table {
 
 .twitter-timeline{
   margin: auto;
-  width:400px;
-  height:100%;
-  
+  width:50%;
 }
 
 /* Additional Utility Classes
