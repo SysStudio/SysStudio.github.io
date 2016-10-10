@@ -3,21 +3,8 @@ layout: default
 section: blog
 ---
 
-        <div class="blog">
-        {% for item in site.categories.blog limit:10 %}
-            <div class="listing">
-                {% capture date %}{{ item.date | date: "%B %Y" }}{% endcapture %}
-                {% capture ndate %}{{ item.next.date | date: "%B %Y" }}{% endcapture %}
-                {% if date != ndate %}
-                <h4 class="month">{{item.date | date: "%B %Y"}}</h4>
-                {% endif %}
-                <a class="item" href="{{site.baseurl}}{{item.url}}">{{item.title}} <span class="date">&#126; {{item.date | date:"%b %d"}}</span></a>
-                <div class="body">
-                    {{item.content}}
-                </div>
-            </div>
-        {% endfor %}
-        </div>
+<a class="twitter-timeline" href="https://twitter.com/lonelyrocktweet">Tweets by lonelyrocktweet</a>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 {% include rss-link.html %}
