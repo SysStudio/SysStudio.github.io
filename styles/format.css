@@ -297,13 +297,19 @@ table {
   display:block;
   max-width:100%;
   }
+
 .date {
   color:#d4d7d9;
   font-weight:normal;
   }
 
 .twittercontainer{
-  margin: auto;
+  margin:auto;
+  width:50%;
+}
+
+.aboutcontent{
+  margin:auto;
   width:50%;
 }
 
