@@ -108,12 +108,6 @@ a {
   a.active {
     color:#516066;
     }
-  .rss {
-    color:#d4d7d9;
-    }
-    .rss:hover {
-      color:#516066;
-      }
 
 abbr {
   border-bottom:1px dotted #000;

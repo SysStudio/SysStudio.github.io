@@ -34,13 +34,12 @@
 
 .content { text-align: left; }
 
-/* flexbox within a flexbox */
-.blog {
-    width: 100%;
+
+.news {
+    width: 300px;
+    height:700px;
     margin: 0px;
     padding: 0px;
-    display: flex;
-    flex-wrap: wrap;
 }
 
 /* blog stuff */
