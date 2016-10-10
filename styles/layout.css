@@ -35,20 +35,6 @@
 .content { text-align: left; }
 
 
-.news {
-    width: 300px;
-    height:700px;
-    margin: 0px;
-    padding: 0px;
-}
-
-/* blog stuff */
-.listing {
-    text-align: left;
-    margin-top: 1em;
-    margin-bottom: 1em;
-}
-
 @media screen and (max-width: 349px) {
     .nav { display: flex; }
 }
