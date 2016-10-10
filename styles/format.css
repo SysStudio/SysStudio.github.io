@@ -307,7 +307,7 @@ table {
 .twittercontainer{
   position:relative;
   margin:auto;
-  max-width:auto;
+  width: auto;
   top:50px;
 }
 
