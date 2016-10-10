@@ -302,6 +302,13 @@ table {
   font-weight:normal;
   }
 
+.twitter-timeline{
+  margin: auto;
+  width:400px;
+  height:100%;
+  
+}
+
 /* Additional Utility Classes
 ------------------------------------------------------- */
 .fr           { float:right; }
