@@ -2,14 +2,14 @@ _layouts/
     default.html
         Default template
         -contains navbar & such
-    blog.html
-        Inherits layout from default, defines layout of blog post page
+    news.html
+        Inherits layout from default, defines layout of news post page
     page.html
         Inherits layout from default, defines layout of page content
         
 _config.yml
     Site configuration and such
-    
+
 Pages don't contain full webpage HTML, but rather are truncated to allow
 for ease of editing of the page's content.
     - Full HTML derived from corresponding file in _layouts, corresponding
