@@ -11,11 +11,11 @@ prose:
       - name: "category"
         field:
           element: "hidden"
-          value: "blog"
+          value: "news"
       - name: "layout"
         field:
           element: "hidden"
-          value: "blog"
+          value: "news"
       - name: "title"
         field:
           element: "text"
