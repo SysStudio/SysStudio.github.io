@@ -292,10 +292,12 @@ table {
   }
 
 .splash img {
+  position:relative;
   background:#f0f0f0;
   margin:0 auto;
   display:block;
   max-width:100%;
+  top: 50px;
   }
 
 .date {
@@ -304,11 +306,13 @@ table {
   }
 
 .twittercontainer{
+  position:relative;
   margin:auto;
   width:50%;
 }
 
 .aboutcontent{
+  position:relative;
   margin:auto;
   width:50%;
 }
