@@ -1,37 +1,86 @@
+
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{{site.baseurl}}/styles/format.css" />
+    <link rel="stylesheet" href="{{site.baseurl}}/styles/layout.css" />
+    <title>Lonely Rock Studio</title>
+    <link rel="icon"
+        type="image/png"
+        href="http://lonelyrockstudio.com/myicon.png">
+</head>
+<body>
+    <div class="container">
+        <div class="box header">
+            <a href="{{site.baseurl}}/">
+                <img src="{{site.baseurl}}/media/logoweb.png" />
+            </a>
+        </div>
+        <div class="box nav">
+            <a class="{% if page.section == "home" %}active{% endif %}"
+                href="{{site.baseurl}}/">Home</a>
+            <a class="{% if page.section == "skyraiders" %}active{% endif %}"
+                href="{{site.baseurl}}/skyraiders-web/">Skyraiders</a>
+            <a class="{% if page.section == "news" %}active{% endif %}"
+                href="{{site.baseurl}}/news">News</a>
+            <a class="{% if page.section == "about" %}active{% endif %}"
+                href="{{site.baseurl}}/about">About</a>
+        </div>
+        <div class="box content">
+        {{content}}
+        </div>
+    </div>
+<p>
 Lonely Rock Studio is a small indie game development team based out of Mesa, Arizona.   Founded in June 2014.
 
 We do what we do because we are passionate about making games. We believe that games combine everything great about writing, art, animation, music, and film in to one medium with an interactive element. We want to make games that immerse people into new worlds and create characters that you will love and feel for.
-
-"We need feels so powerful that it makes you immediately save and quit the game, go on a soul-searching journey across the United States for 3 weeks, visit Canada, somehow end up in Russia, and then fight Nazis all across Germany, return home as a retired war veteran, pick up the game, and question what the hell you just did."
+</p>
+<p>"We need feels so powerful that it makes you immediately save and quit the game, go on a soul-searching journey across the United States for 3 weeks, visit Canada, somehow end up in Russia, and then fight Nazis all across Germany, return home as a retired war veteran, pick up the game, and question what the hell you just did."
 - Doug
+</p>
 
-## Our current team
-Director and 3d Animation Lead
-
+<h1>Our current team<h1>
+<p>Director and 3d Animation Lead
+<br>
   Bryce Henley
-
-Creative Lead and Loremaster
-
+</p>
+<p>Creative Lead and Loremaster
+<br>
   Doug Owen
-
-Writers
-
+</p>
+<p>Writers
+<br>
   Aly Allen
+<br>
   John Sabbagh
-
-Art Lead
-
+</p>
+<p>Art Lead
+<br>
   John Sabbagh
-
-Artists
-
+<p>
+<p>Artists
+<br>
   Hunter Katen
+<br>
   Michael Cheung
-
-Audio and Web Lead
-
+</p>
+<p>Audio and Web Lead
+<br>
   Allek Mott
-
-Programming
-
+</p>
+<p>Programming
+<br>
   Preston Crosby
+</p>
+</body>
+<script>
+    (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,"script","//www.google-analytics.com/analytics.js","ga");
+
+    ga("create", "UA-70256136-1", "auto");
+    ga("send", "pageview");
+</script>
+</html>
