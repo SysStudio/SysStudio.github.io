@@ -1,0 +1,38 @@
+Lonely Rock Studio is a small indie game development team based out of Mesa, Arizona.   Founded in June 2014.
+
+We do what we do because we are passionate about making games. We believe that games combine everything great about writing, art, animation, music, and film in to one medium with an interactive element. We want to make games that immerse people into new worlds and create characters that you will love and feel for.
+
+"We need feels so powerful that it makes you immediately save and quit the game, go on a soul-searching journey across the United States for 3 weeks, visit Canada, somehow end up in Russia, and then fight Nazis all across Germany, return home as a retired war veteran, pick up the game, and question what the hell you just did."
+- Doug
+
+## Our current team
+>Director and 3d Animation Lead  
+>
+>-  Bryce Henley
+>  
+>Creative Lead and Loremaster  
+>
+>-  Doug Owen  
+>
+>Writers
+>  
+>-  Aly Allen  
+>-  John Sabbagh
+>
+>Art Lead  
+>
+>-  John Sabbagh
+>
+>Artists  
+>
+>-  Hunter Katen
+>-  Michael Cheung  
+>
+>Audio and Web Lead
+>
+>-  Allek Mott  
+>
+>Programming
+>
+>-  Preston Crosby  
+>
