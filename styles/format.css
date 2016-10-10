@@ -285,19 +285,19 @@ table {
 /* Read content styling */
 
 .skyraiderssplash{
-   display: block;
-   max-width:100%;
-   margin-left: auto;
-   margin-right: auto }
+  position:relative;
+  display: block;
+  max-width:100%;
+  margin-left: auto;
+  margin-right: auto
+  top: 50px;
   }
 
 .splash img {
-  position:relative;
   background:#f0f0f0;
   margin:0 auto;
   display:block;
   max-width:100%;
-  top: 50px;
   }
 
 .date {
