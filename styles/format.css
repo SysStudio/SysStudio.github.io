@@ -287,9 +287,9 @@ table {
 .skyraiderssplash{
   position:relative;
   display: block;
-  width:98vw;
+  width:100%;
   margin:auto;
-  top:50px;
+  top:60px;
   }
 
 .splash img {
